@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-04T06:20:09.000Z",
+      "message": "Inital commit",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 7972,
+      "additions": 3717,
+      "deletions": 4255,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
