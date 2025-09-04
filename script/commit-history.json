@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "5bd8b337d003c29380142d01f38a46be900f54cc",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-04T06:20:09.000Z",
       "message": "Inital commit",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/5bd8b337d003c29380142d01f38a46be900f54cc"
     },
     "stats": {
       "total": 7972,
       "additions": 3717,
       "deletions": 4255,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-04T06:34:36.000Z",
+      "message": "Arreglo de inicio",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2025-09-04"
     },
     "coverage": 100,
