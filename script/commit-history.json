@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4022abbf8449bcf6eec0fc20d4bfd335d1a38466",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-04T07:04:14.000Z",
       "message": "retornar Buzz para múltiplos de 3",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/4022abbf8449bcf6eec0fc20d4bfd335d1a38466"
     },
     "stats": {
       "total": 4,
@@ -72,6 +72,25 @@
     },
     "coverage": 77.78,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-04T07:04:58.000Z",
+      "message": "retornar Buzz para múltiplos de 5",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 88.89,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
