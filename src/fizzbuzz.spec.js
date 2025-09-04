@@ -14,3 +14,14 @@ test('debería retornar Buzz para múltiplos de 5', () => {
     expect(fizzBuzz(5)).toBe('Buzz');
     expect(fizzBuzz(10)).toBe('Buzz');
 });
+
+
+test('debería retornar FizzBuzz para múltiplos de 3 y 5', () => {
+    expect(fizzBuzz(15)).toBe('FizzBuzz');
+});
+
+
+test('debería retornar el número si no es múltiplo de 3 ni de 5', () => {
+    expect(fizzBuzz(7)).toBe('7');
+});
+
